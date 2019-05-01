@@ -8,7 +8,7 @@ Source: [jorgeancal](http://jorgeancal.com/en/crack/crack-startuml/)
 
 After installing StartUML successfully, modify `LicenseManagerDomain.js` as follow:
 ```diff
-- starUML.md
+- starUML.md :
 ```
 ```js
 /**
