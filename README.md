@@ -5,12 +5,11 @@ Download: [StarUML.io](http://staruml.io/)
 Source: [jorgeancal](http://jorgeancal.com/en/crack/crack-startuml/)
 
 
-```diff
-+ this will be highlighted in green
-- this will be highlighted in red
-```
 
 After installing StartUML successfully, modify `LicenseManagerDomain.js` as follow:
+```
+- starUML.md
+```
 ```js
 /**
  * File name: LicenseManagerDomain.js
