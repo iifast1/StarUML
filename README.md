@@ -1,6 +1,9 @@
 # StarUML
 Download: [StarUML.io](http://staruml.io/)
 
+StarUML + Crack (forum) : [Version 3.2.1 + CRACK](https://ftuapps.dev/staruml-v-3-2-1-crack/)
+
+
 # Crack
 Source: [jorgeancal](http://jorgeancal.com/en/crack/crack-startuml/)
 
